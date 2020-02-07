@@ -1,4 +1,4 @@
-# react-native-app-review
+# 📱 react-native-app-review
 ## A react native app of Reviews
 ---
 # A react native app of Reviews created using these techs:
@@ -9,7 +9,7 @@
 ---
 # Screens
 
-###Home: 
+### Home: 
 ![alt text](https://i.dlpng.com/static/png/6827304_preview.png "Empty screen")
 ---
 # Instructions
